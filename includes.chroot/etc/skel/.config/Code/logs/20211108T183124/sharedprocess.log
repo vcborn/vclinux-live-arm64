@@ -1,0 +1,10 @@
+[2021-11-08 18:31:42.487] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-10 15:25:03.504] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-10 16:19:25.897] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-10 18:39:50.745] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2021-11-10 18:39:52.072] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /home/vcborn/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ja-1.62.3
+[2021-11-10 18:39:52.718] [sharedprocess] [info] Extracted extension to /home/vcborn/.vscode/extensions/.53e344c1-973c-4535-a99b-e31e15ed10b0: ms-ceintl.vscode-language-pack-ja
+[2021-11-10 18:39:52.731] [sharedprocess] [info] Renamed to /home/vcborn/.vscode/extensions/ms-ceintl.vscode-language-pack-ja-1.62.3
+[2021-11-10 18:39:52.740] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-ja
+[2021-11-10 18:39:52.748] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+[2021-11-10 18:39:52.991] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja

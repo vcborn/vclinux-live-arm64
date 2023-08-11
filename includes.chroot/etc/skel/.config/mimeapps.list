@@ -1,0 +1,25 @@
+[Default Applications]
+inode/directory=pcmanfm.desktop;
+text/html=firefox-esr.desktop;
+application/xhtml+xml=firefox-esr.desktop;
+application/msword=libreoffice-writer.desktop;
+application/vnd.ms-excel=libreoffice-calc.desktop;
+application/vnd.ms-powerpoint=libreoffice-impress.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+docx=libreoffice-writer.desktop;
+xlsx=libreoffice-calc.desktop;
+pptx=libreoffice-impress.desktop;
+image/jpeg=org.kde.gwenview.desktop;
+image/png=org.kde.gwenview.desktop;
+image/gif=org.kde.gwenview.desktop;
+image/svg+xml=org.kde.gwenview.deskop;
+image/bmp=org.kde.gwenview.desktop;
+video/H264=vlc.desktop;
+video/mp4=vlc.desktop;
+video/mpeg=vlc.desktop;
+video/x-msvideo=vlc.desktop;
+txt/plain=org.kde.kate.desktop;
+application/x-javascript=code.desktop;
+

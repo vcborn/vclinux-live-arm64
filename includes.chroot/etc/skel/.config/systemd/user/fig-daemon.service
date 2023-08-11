@@ -1,0 +1,12 @@
+[Unit]
+Description=Fig Daemon
+
+[Service]
+ExecStart=/usr/bin/fig daemon
+StandardOutput=file:/home/vcborn/.fig/logs/daemon.log
+StandardError=file:/home/vcborn/.fig/logs/daemon.log
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

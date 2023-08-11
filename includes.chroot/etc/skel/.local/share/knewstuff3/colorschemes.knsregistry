@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Moe Color Schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1284573</homepage>
+  <licence></licence>
+  <version>1.5</version>
+  <rating>61</rating>
+  <downloads>2187</downloads>
+  <installedfile>/home/vcborn/.local/share/color-schemes/Moe.colors</installedfile>
+  <id>1284573</id>
+  <releasedate>2021-12-04</releasedate>
+  <summary>Moe color-schemes for Moe Plasma Theme https://store.kde.org/p/1284575/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1284573/0cd52cf2224eb9626df58e946ad65a8ff60fbbc53e6a5465c545c6e2e196573febf3.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1284573/0cd52cf2224eb9626df58e946ad65a8ff60fbbc53e6a5465c545c6e2e196573febf3.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mzg2MzMzOTkiLCJvIjoiMSIsInMiOiJhM2EwNTNlYWIxMzhmYzA3NWIzYjVjMGM4ODYyMTU1MzAwYjMxNjlmZmIyYzYyNTAwNDViMGE0OTAzOTVmMTFmMmMzOWE0YTJjOGU5ODE4M2MzMWZjNDljNzFiMTY3MzY2ZGIwOTI0ZDE5ZmM4NjVkNjE1NGFhMzRiNGM1ZDA3ZCIsInQiOjE2Mzk0ODY3NDQsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.LiSnFp4CLOHEL9WNJGDN1xvTAodY2-MimjrSoi5VaQU/Moe.colors.tar.gz</payload>
+  <tags>original-product,plasma,theme,unix,colorscheme,gplv3,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>ChromeOS color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1354044</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>8135</downloads>
+  <installedfile>/home/vcborn/.local/share/color-schemes/ChromeOSLight.colors</installedfile>
+  <installedfile>/home/vcborn/.local/share/color-schemes/ChromeOS.colors</installedfile>
+  <installedfile>/home/vcborn/.local/share/color-schemes/ChromeOSDark.colors</installedfile>
+  <id>1354044</id>
+  <releasedate>2021-12-22</releasedate>
+  <summary>ChromeOS kde is a materia Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+- Aurorae Themes&lt;br />
+- Kvantum Themes&lt;br />
+- Plasma Color Schemes&lt;br />
+- Plasma Desktop Themes&lt;br />
+- Plasma Look-and-Feel Themes</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1354044/d382aba9f6644e93dbeeb9ddcce0b5272237.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1354044/d382aba9f6644e93dbeeb9ddcce0b5272237.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDAxNjcxMDgiLCJvIjoiMSIsInMiOiIwYjYxYmM3M2JkZDQ5MzQ1ODY3ZjlmN2U5MGUxNGUwOGMzMTNiYzYwYmQxOWIyMDcyNzk4NTljN2YzYzg0ZDY1YTE2ZmNjZGE3NmI1MWFhNGRmZWQ1MDkxN2NhY2ZkNzJkYmMwMWYwYmI4YjZjMjliOGE1NGMwMjIzMDBmYzQwZiIsInQiOjE2NDMwMzQzMjAsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.2YNP0uGWameY_Ro023cBSb705J4JZ7gf1Ju0W9Cutao/ChromeOS-color-schemes.tar.xz</payload>
+  <tags>plasma,theme,unix,colorscheme,kde,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

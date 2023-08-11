@@ -1,0 +1,15 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1030430e28d316000166038148400001976610006
+clientId2=1030430e28d316000166038148400001976610007
+count=2
+program1=/usr/bin/kalendarac
+program2=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+restartCommand1=/usr/bin/kalendarac,-session,1030430e28d316000166038148400001976610006_1660382051_356842
+restartCommand2=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier,-session,1030430e28d316000166038148400001976610007_1660382051_357015
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=vcborn
+userId2=vcborn

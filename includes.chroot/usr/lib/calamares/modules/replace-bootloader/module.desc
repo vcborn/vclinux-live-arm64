@@ -1,0 +1,6 @@
+---
+type:       "job"
+name:       "replace-bootloader"
+interface:  "process"
+command:    "/usr/sbin/replace-bootloader"
+timeout:    600

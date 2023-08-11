@@ -1,0 +1,9 @@
+[2021-11-07 20:39:49.173] [exthost] [info] Extension host with pid 1526 started
+[2021-11-07 20:39:50.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-07 20:39:50.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-07 20:39:50.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-07 20:39:53.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-07 20:39:54.928] [exthost] [info] Eager extensions activated
+[2021-11-07 20:39:55.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-07 20:39:55.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-07 21:00:56.463] [exthost] [info] extension host terminating: renderer closed the socket

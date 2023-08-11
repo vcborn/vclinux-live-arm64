@@ -1,0 +1,14 @@
+NAME="VCLinux"
+VERSION="Beta3"
+ID=vclinux
+ID_LIKE="debian"
+PRETTY_NAME="VCLinux Beta3"
+VARIANT="Beta3"
+VARIANT_ID=user
+VERSION_ID="Beta3"
+HOME_URL="https://vcborn.com/"
+SUPPORT_URL="https://help.vcborn.com"
+LOGO=/usr/share/icons/vcborn/vclicon.png
+PRIVACY_POLICY_URL="https://vcborn.com/privacy"
+VERSION_CODENAME=mochi
+UBUNTU_CODENAME=mochi

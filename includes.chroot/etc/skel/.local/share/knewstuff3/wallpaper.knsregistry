@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Moe Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1498263</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>2335</downloads>
+  <installedfile>/home/vcborn/.local/share/wallpapers/moe.png</installedfile>
+  <id>1498263</id>
+  <releasedate>2021-03-28</releasedate>
+  <summary>Wallpaper for Moe Plasma theme https://store.kde.org/p/1284575/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/3/4/1/1d60374891a54e68752dd8ad1009556239e37f3906ecb2088341b657d5c4848c6010.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/3/4/1/1d60374891a54e68752dd8ad1009556239e37f3906ecb2088341b657d5c4848c6010.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTY5MzA1NzIiLCJvIjoiMSIsInMiOiJlNWE0M2JiMzM2MjY0NTIzNDViOTc0OGRlOTc5MWYyMTBlZjIzNzhhZjJiODg2Mjg5YTAzMWJkYjE4Njc2YTgwNjExMTA2YWI4Yjg5YTc5NjkwOTgxZjUyZjkzNjJkODExY2Y5NTg4ZWIwNDI2ODMwNTUzZDdlNWJiYmI1YWRmNyIsInQiOjE2MzYxMjA2MDksInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.KIMRRcJRqNreeZqBhh9bBKIlH0BUlwWwtR2PBbLpUy4/moe.png</payload>
+  <tags>gplv3,wallpaper,artwork,plasma,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Tela color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1307853</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>142671</downloads>
+  <installedfile>/home/vcborn/.local/share/wallpapers/lDwFVa-ChromeOS/*</installedfile>
+  <id>1307853</id>
+  <releasedate>2020-05-13</releasedate>
+  <summary>Flat colorful wallpapers</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/a/9/e/a9d603ef0e911f7f5ad8326c5c7da2740be2.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/a/9/e/a9d603ef0e911f7f5ad8326c5c7da2740be2.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODkzNTEyMzIiLCJvIjoiMSIsInMiOiI2ZDIxN2Y4YTRkNWEwYjk2ZmI2MDY5YmIzNmMxNjMwMGU0YjVjZDVjOTYyNTdjZWFmYzkzYmUyNDI0NjZmMWFlYWJhMzg5Yzk3ZDc5NWY5ZGIyOWI1MWQ1Mjc0MTc5ZTdlYmE2ZWNkOWExYWRjOTQxMTIxZDI5MDkwYzk5OGUzNiIsInQiOjE2MzYxMjA0MTcsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.lUVpay1EzwR1Wc3TDCEBW4Iw-zWYBW8uKu_Ula_5R5A/ChromeOS.tar.xz</payload>
+  <tags>gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

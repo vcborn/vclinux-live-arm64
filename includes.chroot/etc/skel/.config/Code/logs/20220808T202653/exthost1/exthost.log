@@ -1,0 +1,13 @@
+[2022-08-08 20:26:58.561] [exthost] [info] Extension host with pid 237907 started
+[2022-08-08 20:26:58.561] [exthost] [info] Skipping acquiring lock for /home/vcborn/.config/Code/User/workspaceStorage/fa12c8be261ea358a65fe584882f4b5c.
+[2022-08-08 20:26:59.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-08 20:26:59.657] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-08 20:26:59.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-08 20:26:59.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-08 20:27:00.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-08 20:27:00.232] [exthost] [info] Eager extensions activated
+[2022-08-08 20:27:00.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-08 20:27:00.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-08 20:27:00.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-08 20:27:27.952] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-08 20:27:27.955] [exthost] [info] Extension host with pid 237907 exiting with code 0

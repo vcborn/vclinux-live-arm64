@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-4fdfa948-f095-49de-8698-76a8c4abe147]
+ordering=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:pcmanfm.desktop,applications:org.wezfurlong.wezterm.desktop,applications:code.desktop,applications:firefox-esr.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:pcmanfm.desktop,applications:org.wezfurlong.wezterm.desktop,applications:code.desktop,applications:firefox-esr.desktop

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=vcborn-new
+Description=This is a Plymouth theme with a vcborn-new animation.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/vcborn-new
+ScriptFile=/usr/share/plymouth/themes/vcborn-new/vcborn-new.script

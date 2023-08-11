@@ -1,0 +1,11 @@
+#!/bin/sh
+
+HOST=`hostname`
+USER=`whoami`
+
+if [ $HOST != "debian" ]; then
+    xdg-user-dirs-update
+    xdg-user-dirs-update --force
+    vclinux-welcome
+    rm /home/$USER/.config/autostart/vclinux-welcome.desktop
+fi

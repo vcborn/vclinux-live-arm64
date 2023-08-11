@@ -1,0 +1,12 @@
+[General]
+Default Identity=2113233133
+
+[Identity #0]
+Default Domain=vcborn-vmwarevirtualplatform
+Disable Fcc=false
+Identity=vcborn
+Image Location=
+Inline Signature=
+Name=vcborn
+Signature Enabled=false
+uoid=2113233133

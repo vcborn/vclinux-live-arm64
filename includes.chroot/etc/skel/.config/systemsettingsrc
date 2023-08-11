@@ -1,0 +1,28 @@
+[KFileDialog Settings]
+Recent Files[$e]=vcicons.png,file:///usr/share/icons/vcborn/rock.png,file:///usr/share/icons/vcborn/vcicons.png
+Recent URLs[$e]=file:///usr/share/icons/,file:///usr/share/icons/vcborn/,file:///usr/share/icons/,file:$HOME/画像/,file:$HOME/,file:$HOME/ドキュメント/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA/wAAALLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Virtual1 Height 1694x896=715
+Virtual1 Height 1920x976=700
+Virtual1 Height 1920x984=700
+Virtual1 Height 800x600=540
+Virtual1 Width 1694x896=1020
+Virtual1 Width 1920x976=1020
+Virtual1 Width 1920x984=1272
+Virtual1 Width 800x600=720
+Virtual1 Window-Maximized 800x600=true
+Virtual1 Window-Maximized 817x539=true
+Virtual1 XPosition 1694x896=433
+Virtual1 XPosition 1920x976=666
+Virtual1 XPosition 1920x984=207
+Virtual1 XPosition 800x600=0
+Virtual1 YPosition 1694x896=46
+Virtual1 YPosition 1920x976=23
+Virtual1 YPosition 1920x984=130
+Virtual1 YPosition 800x600=0

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=plymouth
+Description=This is a Plymouth theme with a plymouth animation.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/plymouth
+ScriptFile=/usr/share/plymouth/themes/plymouth/plymouth.script

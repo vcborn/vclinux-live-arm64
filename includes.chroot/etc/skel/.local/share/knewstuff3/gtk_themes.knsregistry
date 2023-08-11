@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Wintosh</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>facecolor</author>
+  <homepage>https://store.kde.org/p/1613242</homepage>
+  <licence></licence>
+  <version>0.96</version>
+  <rating>68</rating>
+  <downloads>1331</downloads>
+  <installedfile>/home/vcborn/.themes/Yaru-Blue/*</installedfile>
+  <installedfile>/home/vcborn/.themes/We10X-blue/*</installedfile>
+  <id>1613242</id>
+  <releasedate>2021-10-19</releasedate>
+  <summary>This theme is inspired by Windows 11 and macos11, adding my redesigned window control buttons, which I think is the best looking GTK theme I've ever made! You should try it with win11 ICONS。</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/c/c/7/73e265d976317011526ddfbf69202e51b998d8812d2c1e315edbf84fb237a5ca1ee1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/c/c/7/73e265d976317011526ddfbf69202e51b998d8812d2c1e315edbf84fb237a5ca1ee1.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzQwNDU1OTIiLCJvIjoiMSIsInMiOiIzZTM2M2NlZTBjOTM1NmFiMmY1NWFjMThmMmI0ZTBiNzk5YzEwNDRjMWY0YjE0ZmNkYzRkY2UzMDU4MjUzNDc1ZmJmN2RmMjAxNzcwMDIxODExNzY0YjY3YzQyNGRiNzc4ZjQzZTdlZmM4YWExYjQzOWE0MDIyZWRkMmY5ZjkwOSIsInQiOjE2MzYzNzEyODMsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.VOOIbfM4tJ9iBzPUkfnxfqbFgJ0opCtx0rjHoBr36H0/icons.tar.xz</payload>
+  <tags>agplv3,efi,linux,unix,theme,gnome,macos,win11</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

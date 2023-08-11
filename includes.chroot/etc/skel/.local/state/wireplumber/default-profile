@@ -1,0 +1,2 @@
+[default-profile]
+alsa_card.pci-0000_02_02.0=output:analog-stereo+input:analog-stereo

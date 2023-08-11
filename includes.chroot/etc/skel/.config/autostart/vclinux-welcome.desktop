@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=vclinux-welcome
+Exec=/bin/vclw %U
+Terminal=false
+Type=Application
+Icon=vclinux-welcome
+StartupWMClass=vclinux-welcome
+Comment=Welcome page for VCLinux
+Categories=Utility;

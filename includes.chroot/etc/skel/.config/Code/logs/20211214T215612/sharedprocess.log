@@ -1,0 +1,10 @@
+[2021-12-14 21:56:24.343] [sharedprocess] [info] Deleted from disk ms-ceintl.vscode-language-pack-ja /home/vcborn/.vscode/extensions/ms-ceintl.vscode-language-pack-ja-1.62.2
+[2021-12-14 21:56:28.192] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-14 21:56:30.902] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2021-12-14 21:56:32.499] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /home/vcborn/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ja-1.62.4
+[2021-12-14 21:56:32.830] [sharedprocess] [info] Extracted extension to /home/vcborn/.vscode/extensions/.947dbe26-c0a9-4dca-94a9-b6fada2b0cc8: ms-ceintl.vscode-language-pack-ja
+[2021-12-14 21:56:32.835] [sharedprocess] [info] Renamed to /home/vcborn/.vscode/extensions/ms-ceintl.vscode-language-pack-ja-1.62.4
+[2021-12-14 21:56:32.838] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-ja
+[2021-12-14 21:56:32.840] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+[2021-12-14 21:56:32.979] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+[2021-12-14 21:57:03.509] [sharedprocess] [error] [uncaught exception in sharedProcess]: システム エラーが発生しました (ENOENT: no such file or directory, scandir '/home/vcborn/.config/Code/clp/b74e0a070167c6dd54e92192df3ecfea.ja'): Error: ENOENT: no such file or directory, scandir '/home/vcborn/.config/Code/clp/b74e0a070167c6dd54e92192df3ecfea.ja'

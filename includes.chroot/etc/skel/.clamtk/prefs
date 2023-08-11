@@ -1,0 +1,13 @@
+DupeDB=1
+Update=shared
+Mounted=0
+Heuristic=0
+LastInfection=しない
+Whitelist=
+Thorough=0
+ScanHidden=0
+TruncateLog=1
+Recursive=0
+GUICheck=1
+SizeLimit=0
+HTTPProxy=0

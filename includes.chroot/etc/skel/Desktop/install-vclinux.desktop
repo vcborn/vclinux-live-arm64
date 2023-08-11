@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install VClinux
+GenericName=VCLinux Installer
+Exec=install-vclinux
+Comment=Calamares — Installer for VCLinux
+Keywords=calamares;system;install;vclinux;installer
+Icon=debian-installer-launcher
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True
+
+Name[ja]=VCLinuxをインストール
+Icon[ja]=calamares
+GenericName[ja]=VCLinuxインストーラー
+Comment[ja]=Calamares - VCLinuxインストーラー

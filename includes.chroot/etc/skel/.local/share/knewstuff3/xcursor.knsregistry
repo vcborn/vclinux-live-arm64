@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Vimix cursors theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1358330</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>87</rating>
+  <downloads>248337</downloads>
+  <installedfile>/home/vcborn/.icons/Vimix-cursors/*</installedfile>
+  <id>1358330</id>
+  <releasedate>2020-02-23</releasedate>
+  <summary>Vimix cursors theme for linux desktop</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/a/2/6/f149edb5f0995baf6998b5294bb15e4b33e0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/a/2/6/f149edb5f0995baf6998b5294bb15e4b33e0.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODI0NDIyNzYiLCJvIjoiMSIsInMiOiIxYmY0NzAyZDljZGFlMTc3YWI0YjdhMzM4ZTJkNjY2MmRlMTE4NWUxY2Q1NmZiMzhiOTM5MTg1NmMzZjAzZjUyYjdkNWI4ODAyM2Y5MmQ3YTNhMGJlY2M3MTNiMzI1Y2YyMjE0ZTBhM2FhY2ZhZDdlNWNhMzgzNDA4YmU0MjdlZiIsInQiOjE2MzYxMjA0NDIsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.bc2WT7roe65pmKzr586iWnmxHw2R-CCLf26-OcNNqiQ/01-Vimix-cursors.tar.xz</payload>
+  <tags>gplv3,linux,unix,cursor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>WhiteSur cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1411743</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>85</rating>
+  <downloads>319495</downloads>
+  <installedfile>/home/vcborn/.icons/WhiteSur-cursors/*</installedfile>
+  <id>1411743</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>WhiteSur cursors</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/7/d/7/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/7/d/7/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMTk1NTAiLCJvIjoiMSIsInMiOiIyNTJlNmIwZTM4YmM5YWVhYmU0NzEzNzBiOWU2MTAzMjdlNDMxNGU5OGE4MTMwMzM4YzhlNDU3ZjNkZTBiZmMxMjc2MjZmMjQwMWVmZmY2NTAxOTg4Mjg3OTQyN2VjMGQ0OGU1ZGMxMDNmNDE3NGI2MDVlZjlhYjkxYWIyYzFiZiIsInQiOjE2MzYxMjA2MDAsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.LXni5kQ23HFaBDQzKFY_MC74g6NN6YeuGbSYWFjrKMw/WhiteSur-cursors.tar.xz</payload>
+  <tags>original-product,gplv3,linux,unix,cursor</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,6 @@
+[2021-11-06 18:38:31.764] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.createExtensionHost() took 54 ms.
+[2021-11-06 18:38:32.024] [renderer1] [info] Starting extension host with pid 3561.
+[2021-11-06 18:38:32.039] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 176 ms.
+[2021-11-06 18:38:39.741] [renderer1] [error] [Extension Host] (node:3561) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-06 21:35:19.634] [renderer1] [error] [text file model] handleSaveError(51) - exit - resulted in a save error: Error: ファイル '/usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/defaults' を書き込むことができません (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/defaults') file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/defaults

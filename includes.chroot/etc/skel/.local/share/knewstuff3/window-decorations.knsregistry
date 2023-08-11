@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>MoeDark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1437783</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>76</rating>
+  <downloads>601</downloads>
+  <installedfile>/home/vcborn/.local/share/aurorae/themes/MoeDark/*</installedfile>
+  <id>1437783</id>
+  <releasedate>2021-12-04</releasedate>
+  <summary>Aurorae theme for Moe Dark plasma theme.&lt;br />
+&lt;br />
+Based on McMojave by Vinceliuice https://github.com/vinceliuice/McMojave-kde</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/e/2/8/14a88dbae56e25c64985dc982362d73d2b3358c32d4f78c39bf8ece98930987b7ff0.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/e/2/8/14a88dbae56e25c64985dc982362d73d2b3358c32d4f78c39bf8ece98930987b7ff0.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mzg2MzMzODciLCJvIjoiMSIsInMiOiJkNWU5NTU0NTY0ZmQ1MmJkODcxZjdjYmI4ZmMzOTQzZDdjOWUyMTFkMzY3NjAzMDkxZmIzYWFmNzhlZGY4YzdhMGU4YTczOGIwYjRmNmI3MWM4YmU1ZTY4ZjNkMzZhMmY4N2JhMWUzNzE4OWE2YTA2ZDM2OWJlZmNkMWU4NWIwYiIsInQiOjE2Mzk0ODY3NDIsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.4o9Mu-oPmpTWQ-WZiv6KtC5t6JfbLrld3GyMsrs6cTU/MoeDark.tar.gz</payload>
+  <tags>plasma,theme,unix,linux,kde,lgplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Moe Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1437785</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>58</rating>
+  <downloads>1035</downloads>
+  <installedfile>/home/vcborn/.local/share/aurorae/themes/Moe/*</installedfile>
+  <id>1437785</id>
+  <releasedate>2021-12-04</releasedate>
+  <summary>Aurorae theme for Moe plasma theme.&lt;br />
+&lt;br />
+Based on McMojave by Vinceliuice https://github.com/vinceliuice/McMojave-kde</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/e/2/8/14a88dbae56e25c64985dc982362d73d2b33a23a02e04bba1a4a25cc9f6821e320ec.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/e/2/8/14a88dbae56e25c64985dc982362d73d2b33a23a02e04bba1a4a25cc9f6821e320ec.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mzg2MzMwMDUiLCJvIjoiMSIsInMiOiIxODMzOGMxOWQxY2U3MjRiM2RlOWZiMmQ5YzNkNzcxZGRhMDdlZmZkNWI4NjZkNjE4YTczNjEyNWU0MzVlNGYzZDczNWY0NTEwYTE3OGU0YjZjZjZhMGI3OGIxYmZkMjkwYTBmNjE1M2EyMTZiYTE5MDY1ODFiYmU1YTY5NDVhMSIsInQiOjE2Mzk0ODY3NDIsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.s1KQie5AVkeg1D6I2_2bLX8Z5dGrdKBQ08Z-uIY-xLk/Moe.tar.gz</payload>
+  <tags>lgplv3,kde,linux,unix,plasma,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>ChromeOS Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1354048</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>179065</downloads>
+  <installedfile>/home/vcborn/.local/share/aurorae/themes/ChromeOS-light/*</installedfile>
+  <installedfile>/home/vcborn/.local/share/aurorae/themes/ChromeOS-dark/*</installedfile>
+  <installedfile>/home/vcborn/.local/share/aurorae/themes/ChromeOS/*</installedfile>
+  <id>1354048</id>
+  <releasedate>2020-04-02</releasedate>
+  <summary>ChromeOS kde is a materia Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+- Aurorae Themes&lt;br />
+- Kvantum Themes&lt;br />
+- Plasma Color Schemes&lt;br />
+- Plasma Desktop Themes&lt;br />
+- Plasma Look-and-Feel Themes</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/f/3/c/98afd8b072e4a9400ca8b15e2a64d8dfdcf6.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/f/3/c/98afd8b072e4a9400ca8b15e2a64d8dfdcf6.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODU4MDg3MzYiLCJvIjoiMSIsInMiOiI4NGUwOGYwNmU5MDYyNGY1ODc3ODc4MjhhZGE5Y2ZjMDZhZmQ4MGI5ZDU3Y2E4ZDFhOTZlOTJhYjJkOTI1YTI0MDU0MTcxYzM0YjMzMjZiOWU4MDNmZmJkNzRlMzJiZWQwMGYzOTU2MmE0NzRiOTMzZDY5NGJhNWI2MDk2ZjY1MCIsInQiOjE2MzYxMjAzODcsInN0ZnAiOm51bGwsInN0aXAiOiI2MC4xNDAuMjEwLjE5OSJ9.S67rKcyS9kS90vPTmi2hm8VMENjFXSbT8a8jW8Yw7Vo/ChromeOS.tar.xz</payload>
+  <tags>linux,gplv3,kde,unix,theme,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

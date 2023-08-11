@@ -1,0 +1,37 @@
+---
+componentName:   vclinux
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         VCLinux
+    shortProductName:    VCLinux
+    version:             Beta3
+    shortVersion:        mochi
+    versionedName:       VCLinux
+    shortVersionedName:  VCLinux Beta3
+    bootloaderEntryName: VCLinux
+    productUrl:          https://vcborn.com/projects/vclinux
+    supportUrl:          https://help.vcborn.com
+    knownIssuesUrl:      https://help.vcborn.com
+    releaseNotesUrl:     https://vcborn.com/projects/vclinux
+    donateUrl:           https://ko-fi.com/vcborn_support
+
+images:
+    productLogo:         "vclinux-logo.png"
+    productIcon:         "vclinux-logo.png"
+    productWelcome:      "welcome.png"
+    # productWallpaper:  "wallpaper.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    	"#292F34"
+   sidebarText:          	"#FFFFFF"
+   sidebarTextSelect:    	"#FFFFFF"
+   sidebarTextHighlight:	"#163469"
+
+slideshowAPI: 2
